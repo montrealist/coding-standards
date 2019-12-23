@@ -1,4 +1,4 @@
-# Pressbooks Coding Standards
+# Pressbooks Coding Standards by Max!
 
 These are our coding standards. There are many like these, but these are ours.
 
